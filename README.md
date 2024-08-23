@@ -1,4 +1,4 @@
-# Data-Analyst-Job-Posting-on-LinkedIn
+# Data-Analyst-Job-Posting-on-LinkedIn 📈
 ### 1. Data Preparation
 - Cleaning and normalize data
 - Extract data jobs in job title.
