@@ -5,6 +5,7 @@
 - Salary distribution for data-related jobs and others job.
 - Top skills required for data analysts.
 - Distribution job in United State
+### The problem
 ### 1. Data Preparation
 - Cleaning and normalize data
 - Extract data jobs in job title.
