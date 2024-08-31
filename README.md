@@ -1,4 +1,10 @@
 # Data-Analyst-Job-Posting-on-LinkedIn 📈
+### About the project
+**Using Python for Exploratory Data Analysis, find insights from LinkedIn job posting data.**
+- Which job is posted most frequently on LinkedIn?
+- Salary distribution for data-related jobs and others job.
+- Top skills required for data analysts.
+- Distribution job in United State
 ### 1. Data Preparation
 - Cleaning and normalize data
 - Extract data jobs in job title.
