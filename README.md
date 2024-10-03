@@ -1,6 +1,7 @@
 # Exploratory Analysis of LinkedIn Job Postings 📈
 [Dataset](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
-[Portfolio](https://data-portfolio-h.notion.site/Exploratory-Analysis-of-LinkedIn-Job-Postings-8cb3c7d1ddcd46348ef2c4bbc2e00c11)
+
+[Portfolio](https://data-portfolio-h.notion.site/Exploratory-Analysis-of-LinkedIn-Job-Postings-8cb3c7d1ddcd46348ef2c4bbc2e00c11) On this site, I analyze detailed project
 ### About the project
 **Analyze employer demands through LinkedIn job postings.**
 - Which job is posted most frequently on LinkedIn?
