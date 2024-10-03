@@ -1,7 +1,7 @@
 # Data-Analyst-Job-Posting-on-LinkedIn 📈
-[dataset](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
+[Dataset](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
 ### About the project
-**Using Python for Exploratory Data Analysis, find insights from LinkedIn job posting data.**
+**Analyze employer demands through LinkedIn job postings.**
 - Which job is posted most frequently on LinkedIn?
 - Salary distribution for data-related jobs and others job.
 - Top skills required for data analysts.
