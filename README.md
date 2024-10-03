@@ -1,5 +1,5 @@
 # Data-Analyst-Job-Posting-on-LinkedIn 📈
-[dataset(https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)]
+[dataset](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
 ### About the project
 **Using Python for Exploratory Data Analysis, find insights from LinkedIn job posting data.**
 - Which job is posted most frequently on LinkedIn?
